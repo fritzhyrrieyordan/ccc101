@@ -1,0 +1,1 @@
+I developed my solution by following the steps, making the pseudocode, and checking my answers with the help of my friends. Organizing my files and committing them to Git helped me keep my work neat and made it easier to track my progress.
